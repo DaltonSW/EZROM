@@ -1,6 +1,12 @@
 # EZROM
 A terminal-based wrapper to facilitate easier downloading of archived game files in bulk.
 
+**DISCLAIMERS:** 
+Neither myself, nor this application, are hosting ANY of the files you choose to download. 
+The sole purpose of this application is to act as a download wrapper around existing, trusted archiving sources.
+I do not condone piracy, I am merely an advocate for data preservation and archival.
+If you are the legal copyright holder of any brands or products mentioned and you wish to be removed, please contact me at `feedback@dalton.dog`
+
 Prompts:
 ![image](https://github.com/DaltonSW/EZROM/assets/33884368/2c41a99f-5827-41f9-a3d6-0d25c879654e)
 ![image](https://github.com/DaltonSW/EZROM/assets/33884368/81c5ef2d-e71d-4266-8249-ca3c89e90640)
